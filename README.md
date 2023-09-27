@@ -4,7 +4,7 @@ I'm Yen, I like building web applications
 
 ## 🧐 About Me
 
-🎓 Graduate of Singapore Polytechnic, Diploma in Information Technology, 2022
+🎓 I am a graduate of Singapore Polytechnic, Diploma in Information Technology, 2022
 
 😄 I Like to participate in hackathons and learn together with people
 

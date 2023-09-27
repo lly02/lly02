@@ -8,7 +8,7 @@ I'm Yen, I like building web applications
 
 😄 I Like to participate in hackathons and learn together with people
 
-🤖 Currently mostly working on Typescript projects
+🤖 Currently mostly working on React projects
 
 ## 🤪 My Stats
 

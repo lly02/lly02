@@ -14,7 +14,7 @@ I'm Yen, I like building web applications
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lly02)
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lly&layout=compact)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lly&layout=compact&v=2)
 
 ## 😮 My Top Languages
 

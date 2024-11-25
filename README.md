@@ -1,16 +1,14 @@
-# Hello! 👋
+# Hello
 
 I'm Yen, I like building web applications
 
-## 🧐 About Me
+## About Me
 
-🎓 I am a graduate of Singapore Polytechnic, Diploma in Information Technology, 2022
+I am a graduate of Singapore Polytechnic, Diploma in Information Technology, 2022
 
-😄 I Like to participate in hackathons and learn together with people
+Currently pursuing a degree in Computer Science (Cyber Security and Digital System Security)
 
-🤖 Currently mostly working on React projects
-
-## 🤪 My Stats
+## My Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lly02)
 

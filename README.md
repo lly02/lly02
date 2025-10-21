@@ -12,8 +12,8 @@ Currently pursuing a degree in Computer Science (Cyber Security and Digital Syst
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lly02)
 
-![WakaTime](https://wakatime.com/share/@lly/afa274f5-c2d6-4cc4-8a85-f79e539f8e30.svg)
+![WakaTime](https://wakatime.com/share/@lly/f7ea691f-d3de-4ee5-bcb1-2a26ee4255bb.svg)
 
-![WakaTime](https://wakatime.com/share/@lly/2bce35d8-7fee-4f8a-b258-8bf0701abb27.svg")
+![WakaTime](https://wakatime.com/share/@lly/62217189-19cc-4b0b-99fd-d5aa8f7bccf1.svg)
 
 [![An image of @lly02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lly02)](https://holopin.io/@lly02)

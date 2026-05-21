@@ -4,9 +4,7 @@ I'm Yen, I like building web applications
 
 ## About Me
 
-I am a graduate of Singapore Polytechnic, Diploma in Information Technology, 2022
-
-Currently pursuing a degree in Computer Science (Cyber Security and Digital System Security)
+Degree in Computer Science (Cyber Security and Digital System Security)
 
 ## My Stats
 

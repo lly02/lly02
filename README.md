@@ -1,6 +1,6 @@
 # Hello
 
-I'm Yen, I like building web applications
+I'm Yen, I like building applications
 
 ## About Me
 
